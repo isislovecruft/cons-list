@@ -10,6 +10,6 @@ authors = [
 
 repository = "https://github.com/contain-rs/cons-list"
 homepage = "https://github.com/contain-rs/cons-list"
-documentation = "https://contain-rs.github.io/cons-list/cons-list"
+documentation = "https://contain-rs.github.io/cons-list/cons_list"
 keywords = ["data-structures"]
 readme = "README.md"
